@@ -2,5 +2,8 @@ node_modules
 .DS_Store
 .env
 package-lock.json
+<<<<<<< HEAD
 # starter-code
+=======
+>>>>>>> 48e53785b5f1ae494295f9c3a0a3d0d8b0e2a13d
 city-explorer-app
